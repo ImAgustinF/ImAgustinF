@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @ImAgustinF.
 - 👀  I’m interested in Finance & Tech.
 - 🌱  I’m currently learning Python and Google Apps Script.
-- 💞️  I’m looking to collaborate on projects related to crypto.
+- 💞️  I’m looking to collaborate on projects related to crypto and automation tools.
 - 📫  How to reach me: Twitter @ImAgustinF
 
 <!---
